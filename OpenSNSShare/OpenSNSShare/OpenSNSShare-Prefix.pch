@@ -1,0 +1,17 @@
+//
+// Prefix header for all source files of the 'OpenSNSShare' target in the 'OpenSNSShare' project
+//
+
+#import <Availability.h>
+
+#ifndef __IPHONE_4_0
+#warning "This project uses features only available in iOS SDK 4.0 and later."
+#endif
+
+#ifdef __OBJC__
+    #import <UIKit/UIKit.h>
+    #import <Foundation/Foundation.h>
+#endif
+
+#define APP_KEY @"562653073"
+#define APP_SCRRET @"0ad5e1b27174ba28376981f5e2be32e7"

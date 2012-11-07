@@ -1,0 +1,77 @@
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/sanya-ios/!svn/ver/3/branches/development/sanya/sanya/MKNetworkKit/Categories
+END
+UIAlertView+MKNetworkKitAdditions.m
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/sanya-ios/!svn/ver/3/branches/development/sanya/sanya/MKNetworkKit/Categories/UIAlertView+MKNetworkKitAdditions.m
+END
+NSData+Base64.h
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/sanya-ios/!svn/ver/3/branches/development/sanya/sanya/MKNetworkKit/Categories/NSData+Base64.h
+END
+NSDate+RFC1123.h
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/sanya-ios/!svn/ver/3/branches/development/sanya/sanya/MKNetworkKit/Categories/NSDate+RFC1123.h
+END
+NSString+MKNetworkKitAdditions.h
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/sanya-ios/!svn/ver/3/branches/development/sanya/sanya/MKNetworkKit/Categories/NSString+MKNetworkKitAdditions.h
+END
+NSAlert+MKNetworkKitAdditions.h
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/sanya-ios/!svn/ver/3/branches/development/sanya/sanya/MKNetworkKit/Categories/NSAlert+MKNetworkKitAdditions.h
+END
+NSData+Base64.m
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/sanya-ios/!svn/ver/3/branches/development/sanya/sanya/MKNetworkKit/Categories/NSData+Base64.m
+END
+NSDate+RFC1123.m
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/sanya-ios/!svn/ver/3/branches/development/sanya/sanya/MKNetworkKit/Categories/NSDate+RFC1123.m
+END
+NSString+MKNetworkKitAdditions.m
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/sanya-ios/!svn/ver/3/branches/development/sanya/sanya/MKNetworkKit/Categories/NSString+MKNetworkKitAdditions.m
+END
+NSAlert+MKNetworkKitAdditions.m
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/sanya-ios/!svn/ver/3/branches/development/sanya/sanya/MKNetworkKit/Categories/NSAlert+MKNetworkKitAdditions.m
+END
+NSDictionary+RequestEncoding.h
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/sanya-ios/!svn/ver/3/branches/development/sanya/sanya/MKNetworkKit/Categories/NSDictionary+RequestEncoding.h
+END
+UIAlertView+MKNetworkKitAdditions.h
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/sanya-ios/!svn/ver/3/branches/development/sanya/sanya/MKNetworkKit/Categories/UIAlertView+MKNetworkKitAdditions.h
+END
+NSDictionary+RequestEncoding.m
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/sanya-ios/!svn/ver/3/branches/development/sanya/sanya/MKNetworkKit/Categories/NSDictionary+RequestEncoding.m
+END
